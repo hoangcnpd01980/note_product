@@ -1,2 +1,2 @@
 # note_product
-Website usgin HTML + CSS + JS
+Website using HTML + CSS + JS
